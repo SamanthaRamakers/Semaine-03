@@ -1,6 +1,6 @@
 // Exercice 1: ajoute "Ted" au tableau suivant
 
-let castArray= ["Robin", "Barney", "Lily", "Marshal"];
+let castArray = ['Robin', 'Barney', 'Lily', 'Marshal', 'Ted'];
 
 // Exercice 2: Affiche l'index de "Ted" dans le tableau dans la console
 
